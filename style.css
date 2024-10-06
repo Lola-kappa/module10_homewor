@@ -1,0 +1,27 @@
+.btn {
+    width: 600px;
+    height: 100px;
+    background: linear-gradient(to right, #c31432, #240b36);
+    display: grid;
+    grid-template-columns: 450px 150px;
+    cursor: pointer;
+}
+
+.btn_text {
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 30pt;
+    margin-left: 10px;
+}
+
+.btn_icon {
+    width: 41px;
+    height: 15px;
+    margin-top: 20px;
+    color: #baa8c7;
+}
+
+.icon2 {
+    display: none;
+}
